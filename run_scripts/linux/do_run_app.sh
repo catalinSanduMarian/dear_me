@@ -34,7 +34,7 @@ cleanup() {
 trap cleanup EXIT INT TERM
 
 # ── Flutter ──────────────────────────────────────────────────────────────────
-cd "$PROJECT_ROOT"
+cd "$PROJECT_ROOT/frontend_dearme"
 
 echo ""
 echo "[dear_me] ================================================"

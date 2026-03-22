@@ -1,0 +1,61 @@
+# IDE
+.vscode/
+
+# Run scripts logs
+run_scripts/linux/logs/
+
+# Flutter/Dart
+frontend_dearme/.dart_tool/
+frontend_dearme/.packages
+frontend_dearme/.pub-cache/
+frontend_dearme/.pub/
+frontend_dearme/build/
+frontend_dearme/.flutter-plugins
+frontend_dearme/.flutter-plugins-dependencies
+frontend_dearme/*.iml
+
+# Android
+frontend_dearme/android/.gradle/
+frontend_dearme/android/app/debug/
+frontend_dearme/android/app/profile/
+frontend_dearme/android/app/release/
+frontend_dearme/android/local.properties
+frontend_dearme/android/key.properties
+frontend_dearme/android/app/*.jks
+frontend_dearme/android/app/*.keystore
+frontend_dearme/android/app/google-services.json
+
+# iOS
+frontend_dearme/ios/Pods/
+frontend_dearme/ios/.symlinks/
+frontend_dearme/ios/Flutter/Flutter.framework
+frontend_dearme/ios/Flutter/Flutter.podspec
+frontend_dearme/ios/Flutter/Generated.xcconfig
+frontend_dearme/ios/Flutter/ephemeral/
+frontend_dearme/ios/Flutter/flutter_export_environment.sh
+frontend_dearme/ios/ServiceDefinitions.json
+frontend_dearme/ios/Runner/GeneratedPluginRegistrant.*
+
+# macOS
+frontend_dearme/macos/Flutter/GeneratedPluginRegistrant.swift
+frontend_dearme/macos/Flutter/ephemeral/
+
+# Windows
+frontend_dearme/windows/flutter/generated_plugin_registrant.cc
+frontend_dearme/windows/flutter/generated_plugin_registrant.h
+frontend_dearme/windows/flutter/generated_plugins.cmake
+frontend_dearme/windows/flutter/ephemeral/
+
+# Linux
+frontend_dearme/linux/flutter/generated_plugin_registrant.cc
+frontend_dearme/linux/flutter/generated_plugin_registrant.h
+frontend_dearme/linux/flutter/generated_plugins.cmake
+frontend_dearme/linux/flutter/ephemeral/
+
+# Signing & secrets
+*.jks
+*.keystore
+*.p12
+*.key
+*.pem
+*.env
