@@ -1,0 +1,17 @@
+0) flutter+ backend:go
+1) do i need to host anything anywhere   ----> nope, maybe later on with some more api-calls, or moving backend to a server (why tho)
+
+2) app plan: minimalist, fac primele 2-3 ecrane principale + ideile principale
+
+3) how it will look? ->		 just slop it for now
+
+4) bare minumus:
+ecran de modificare/adaugare text
+ecran de setare poza
+ecran cu prompt of the day (thought of the day or sum shit)
+today
+on this day
+calendar maybe?
+timeline?
+multiple jurnals
+ecran jurnal picker maybe?
